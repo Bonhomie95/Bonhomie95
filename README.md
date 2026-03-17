@@ -7,8 +7,8 @@
 I build things end-to-end — from mobile apps with crypto wallets to Python pipelines that automate entire workflows. Based in Lagos. Working globally.
 
 [![Email](https://img.shields.io/badge/Email-bonhomie@bonhomieinc.dev-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:bonhomie@bonhomieinc.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adeyemi_Joseph-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adeyemi-joseph)
-[![NPM](https://img.shields.io/badge/NPM-bonhomie--react--flow--form-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/bonhomie-react-flow-form)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adeyemi_Joseph-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemi-joseph-770a55244/)
+[![NPM](https://img.shields.io/badge/NPM-bonhomie--react--flow--form-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~bonhomie95)
 
 </div>
 

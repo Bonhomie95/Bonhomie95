@@ -35,8 +35,6 @@ DevOps       →  Docker, Nginx, AWS, PM2, CI/CD
 | [🎱 CueMaster](https://github.com/Bonhomie95/cuemaster) | 3D pool game with Web3 staking | React Native · Three.js · Solana |
 | [🎬 QuizVideoPython](https://github.com/Bonhomie95/quizvideopython) | Automated quiz video generation + YouTube upload | Python · FFmpeg · YouTube API |
 | [📈 AI Trader](https://github.com/Bonhomie95/aitrader) | Algorithmic trading with backtesting engine | Python · Pandas · TA-Lib |
-| [🏠 Property Wey](https://github.com/Bonhomie95/property-wey) | Full real estate SaaS with AI moderation | React · Node.js · MongoDB |
-| [📧 MailPulse](https://github.com/Bonhomie95/mailpulse) | Email deliverability scanner + AI scoring | React · Node.js · IMAP · OpenAI |
 
 ---
 

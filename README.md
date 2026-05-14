@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Bonhomie 👋
+# Hey, I'm Joseph 👋
 
 **Full-Stack Engineer · Mobile · Web3 · AI · Python Automation**
 
